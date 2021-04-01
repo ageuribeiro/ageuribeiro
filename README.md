@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi Guys! &#128075;
 
-<!--
-**ageuribeiro/ageuribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Ageu Ribeiro, I'm from Brazil &#x1F1E7;&#x1F1F7; I study MBA in **Data Science and Big Data Analytics.**&#9200;
+but I've been working as a **front-end developer** since 2018 and **SQL Server** since 2016.
 
-Here are some ideas to get you started:
+&#9989; - I'm from São Paulo - SP.
+&#9989; - See my frontend, database and data science studies at http://ageuribeiro.dev.br/
+&#9989; - Sharing a little of my Front-End Journey at https://www.instagram.com/ar_dev_analytics/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Follow me on ...&#128071;# Hi Guys! &#128075;
+
+Hi! My name is Ageu Ribeiro, I'm from Brazil &#x1F1E7;&#x1F1F7; I study MBA in **Data Science and Big Data Analytics.**&#9200;
+but I've been working as a **front-end developer** since 2018 and **SQL Server** since 2016.
+
+&#9989; - I'm from São Paulo - SP.
+&#9989; - See my frontend, database and data science studies at http://ageuribeiro.dev.br/
+&#9989; - Sharing a little of my Front-End Journey at https://www.instagram.com/ar_dev_analytics/
+
+
+Follow me on ...&#128071;
