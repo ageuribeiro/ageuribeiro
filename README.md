@@ -7,6 +7,6 @@ but I've been working as a **front-end developer** since 2018 and **SQL Server**
 
 &#9989; - See my frontend, database and data science studies at http://ageuribeiro.dev.br/
 
-&#9989; - Sharing a little of my Front-End Journey at https://www.instagram.com/ar_dev_analytics/
+&#9989; - Sharing a little of my Front-End Journey at https://www.instagram.com/_aanalytics/
 
 Follow me on ...&#128071;
