@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ageu Ribeiro 🙋
 
-<p>🧑‍💻 - Hoje estou trabalho com desenvolvimento web </p>
-<p>👨‍🎓 - Estudando Flask/Python </p>
+<p>🧑‍💻 - Atualmente buscando desafio para análise de dados </p>
+<p>👨‍🎓 - Estudando Pandas e Numpy para análise de dados </p>
 <p>📩 - Contate-me através do e-mail: ageu87@gmail.com ou channelsystemti@gmail.com</p>
 <p>🗣️ - Pronouns: Ele/Dele</p>
 
