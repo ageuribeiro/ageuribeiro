@@ -2,7 +2,7 @@
 
 <p>🧑‍💻 - Buscando novos desafios como Engenheiro de Dados </p>
 <p>👨‍🎓 - Estudando Modelagem Dimensional, Python (NumPy, PySpark, Pandas, BeautifulSoup4, Matplotlib), SQL(CRUD, GROUPBY, WHERE, JOIN, SELECT), FlaskAPI, AirFlow, Spark, Hadoop, ETL, Data Lake, Data Factory, Data Warehouse   </p>
-<p>📩 - Contate-me através do e-mail: ageu87@gmail.com ou channelsystemti@gmail.com</p>
+<p>📩 - Contate-me através do e-mail: ageu87@gmail.com</p>
 
 <div> 
   <a href="https://instagram.com/ageuribeirokeys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
