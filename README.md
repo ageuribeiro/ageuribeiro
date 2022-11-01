@@ -1,12 +1,3 @@
-### Olá! Eu sou o Ageu Ribeiro 🙋
+### Hi! I`m Ageu  🙋
 
-<p>🧑‍💻 - Buscando novos desafios como Engenheiro de Dados </p>
-<p>👨‍🎓 - Estudando Modelagem Dimensional, Python (NumPy, PySpark, Pandas, BeautifulSoup4, Matplotlib), SQL(CRUD, GROUPBY, WHERE, JOIN, SELECT), FlaskAPI, AirFlow, Spark, Hadoop, ETL, Data Lake, Data Factory, Data Warehouse   </p>
-<p>📩 - Contate-me através do e-mail: ageu87@gmail.com</p>
-
-<div> 
-  <a href="https://instagram.com/ageuribeirokeys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ageu87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devageuribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.kaggle.com/ageuribeiroremay" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-%230077B5?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a> 
-</div>
+  I have a degree in Database Technology and Business Administration. I am currently specializing in data science. I study on my own in a self-taught way. See below the progress of my knowledge and skills.
