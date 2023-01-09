@@ -15,6 +15,7 @@ Here are the thechnologies used by me.
 - Python Language 3.10 
 - SQL Server 2019
 - Microsoft Power BI
+- Apache AirFlow
 
 
 ## **Library used**
@@ -27,7 +28,9 @@ Here are the Python library used by me.
 - Matplotlib
 - Seaborn
 - Sklearn
-- Pandas-profiling
+- Spark
+- Dash
+- Flask
 
 
 ## Services used
