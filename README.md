@@ -14,6 +14,7 @@ Here are the thechnologies used by me.
 - C#.NET 9.0 
 - SQL Server 2019
 - Microsoft Power BI
+- Clean Architecture
 
 ## Services used
 
