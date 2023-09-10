@@ -8,34 +8,13 @@
 ## **Blog by Ageu Ribeiro**
 This is my blog default
 
-
 ## **Technology**
 Here are the thechnologies used by me.
 
-- Python Language 3.10 
+- C#.NET 9.0 
 - SQL Server 2019
 - Microsoft Power BI
-- Apache AirFlow
-
-
-## **Library used**
-Here are the Python library used by me.
-
-- Pandas
-- NumPy
-- SciPy
-- Plotly
-- Matplotlib
-- Seaborn
-- Sklearn
-- Spark
-- Dash
-- Flask
-
 
 ## Services used
 
 - GitHub
-- Heroku
-
-
