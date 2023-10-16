@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/channel.system.ofc/)
 
 - 👨‍🎓 Today I working with Back-end, Front-end and Database
-- 🪶 Learning C#.NET 9.0, Blazor and ASP.NET Core
+- 🪶 Learning SQL, PYTHON, POWER BI, ETL for data analytics
 - 😁 Pronouns: He/Him/His
 
 ![Ageu GitHub stats](https://github-readme-stats.vercel.app/api?username=ageuribeiro&show_icons=true&theme=tokyonight)
