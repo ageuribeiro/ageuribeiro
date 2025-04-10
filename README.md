@@ -7,6 +7,7 @@
 
 - 👨‍🎓 Today I working with Back-end, Front-end and Database
 - 🪶 Learning SQL, PYTHON, POWER BI, ETL for data analytics
+- 🪶 Learning Software Enginner in DNC School
 - 😁 Pronouns: He/Him/His
 
 ![Ageu GitHub stats](https://github-readme-stats.vercel.app/api?username=ageuribeiro&show_icons=true&theme=tokyonight)
