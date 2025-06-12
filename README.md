@@ -1,5 +1,6 @@
 ### Hi, I am Ageu Ribeiro 👋🏽
-### Full Stack Developer with over 11 years of experience, specialized in C# and .NET, with strong experience in back-end, front-end (WPF, XAML, Razor, React) and process automation (RPA with Python and Selenium). Solid experience with SQL Server, MongoDB, Azure DevOps, Docker and systems integration.
+### Developer with over 11 years of experience, specialized in C# and .NET, with strong experience in back-end, front-end (WPF, XAML, Razor, JQuery, AJAX). 
+Solid experience with SQL Server, ASP.NET, ASP.NET Web API.
 
 ### I focus on performance, scalability and code quality, always seeking to transform data into decisions through Power BI Dashboards and results-oriented solutions. I have experience with agile methodologies, CI/CD and containerization of environments.
 
