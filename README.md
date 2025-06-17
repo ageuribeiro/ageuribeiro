@@ -1,6 +1,6 @@
 ### Hi, I am Ageu Ribeiro 👋🏽
-### Developer with over 11 years of experience, specialized in C# and .NET, with strong experience in back-end, front-end (WPF, XAML, Razor, JQuery, AJAX). 
-Solid experience with SQL Server, ASP.NET, ASP.NET Web API.
+### Developer with over 11 years of experience, specialized in SQL Server. 
+Solid experience with SQL Server, Power BI, DAX, Python.
 
 ### I focus on performance, scalability and code quality, always seeking to transform data into decisions through Power BI Dashboards and results-oriented solutions. I have experience with agile methodologies, CI/CD and containerization of environments.
 
@@ -11,7 +11,7 @@ Solid experience with SQL Server, ASP.NET, ASP.NET Web API.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devageuribeiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/channel.system.ofc/)
 
-- 👨‍🎓 Today I working with Back-end, Front-end and Database
+- 👨‍🎓 Today I working with Data Analytcs
 - 🪶 Learning SQL, PYTHON, POWER BI, ETL for data analytics
 - 🪶 Learning Software Enginner in DNC School
 - 😁 Pronouns: He/Him/His
